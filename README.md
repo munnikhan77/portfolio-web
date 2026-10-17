@@ -1,6 +1,10 @@
-# Munni Khan — Cinematic Portfolio
+# Munni Khan — Portfolio
 
-Nuxt portfolio with filmic motion, letterbox hero, and scroll-driven scenes.
+Web developer from Nepal · 2+ years experience · Studying at MIT (Model Institute of Technology).
+
+Projects: [Inspire 2082](https://inspire2082.org/), [Ambition Guru College](https://ambitiongurucollege.edu.np/), [Ghunsa](https://ghunsa.org/), admin dashboards and e-commerce stores.
+
+Contact: munnikhan8879@gmail.com · +977 9847688884
 
 ## Setup
 

@@ -13,9 +13,9 @@ export const profile = {
   ],
   belief: 'If it doesn’t move you, it isn’t finished.',
   socials: [
-    { label: 'GitHub', href: 'https://github.com' },
-    { label: 'LinkedIn', href: 'https://linkedin.com' },
-    { label: 'X', href: 'https://x.com' },
+    { label: 'GitHub', href: 'https://github.com/munnikhan77' },
+    { label: 'Email', href: 'mailto:munnikhan8879@gmail.com' },
+    { label: 'Call', href: 'tel:+9779847688884' },
   ],
 }
 
