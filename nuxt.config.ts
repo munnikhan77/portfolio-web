@@ -8,10 +8,10 @@ export default defineNuxtConfig({
       title: 'Munni Khan — Portfolio',
       htmlAttrs: { lang: 'en' },
       meta: [
-        { name: 'description', content: 'Munni Khan — cinematic portfolio. Creative developer crafting digital experiences with filmic precision.' },
+        { name: 'description', content: 'Munni Khan — Web developer from Nepal with 2+ years experience. Websites, admin panels and e-commerce.' },
         { name: 'theme-color', content: '#000000' },
         { property: 'og:title', content: 'Munni Khan — Portfolio' },
-        { property: 'og:description', content: 'Creative developer. Cinematic digital experiences.' },
+        { property: 'og:description', content: 'Web developer · Websites, admin panels, e-commerce · Nepal' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       ],
       link: [
